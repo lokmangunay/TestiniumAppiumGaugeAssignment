@@ -1,0 +1,11 @@
+#Kategoriler sayfası açıldı mı kontrol et
+*"2" saniye bekle
+* "//*[@text='Kadın']" XPath li element ekranda gozukuyor mu kontrolu
+
+
+
+# Menüden  Kadın seçeneğe tıkla ve Pantolon kategorisini aç.
+* "//*[@text='Kadın']" xpath li elemente tıkla
+* "2" saniye bekle
+* "//*[@text='Pantolon']" xpath li elemente tıkla
+* "3" saniye bekle

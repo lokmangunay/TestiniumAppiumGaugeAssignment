@@ -1,0 +1,11 @@
+
+# Ürün detay sayfası açıldı mı kontrol et
+*"com.ozdilek.ozdilekteyim:id/tvColorDesc" ID li element ekranda gozukuyor mu kontrolu
+
+#Ürünü favorilerime ekle
+*"com.ozdilek.ozdilekteyim:id/imgFav" id li elemente tıkla
+
+#Ürünü Sepete ekle
+*Rastgele bir beden seç
+*"com.ozdilek.ozdilekteyim:id/cardAddToCart" id li elemente tıkla
+

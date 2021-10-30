@@ -1,0 +1,13 @@
+
+# Login sayfası açıldı mı kontrol et
+*"com.ozdilek.ozdilekteyim:id/btnLogin" ID li element ekranda gozukuyor mu kontrolu
+
+#geri butonuna tıkla
+*"com.ozdilek.ozdilekteyim:id/ivBack" id li elemente tıkla
+*"2" saniye bekle
+
+#Kulanıcı adı alanına <textInput> bilgisi girilir.
+*"com.ozdilek.ozdilekteyim:id/etEposta" id li input alanına <textInput> kelimesini yaz
+
+#Password alanına <textInput> bilgisi girilir.
+ *"com.ozdilek.ozdilekteyim:id/etPassword" id li input alanına <textInput> kelimesini yaz

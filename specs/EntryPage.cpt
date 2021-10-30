@@ -1,0 +1,6 @@
+# Uygulama açıldı mı kontrol et 
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" ID li element ekranda gozukuyor mu kontrolu
+
+# Alısverise basla butonuna tıkla ve Anasayfaya yonlendir.
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" id li elemente tıkla
+* "3" saniye bekle
